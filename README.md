@@ -1,4 +1,4 @@
-# first-non-repeated
+# first-non-repeated-char
 
 ### Pra que é esse repositório? ###
 
